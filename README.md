@@ -9,7 +9,7 @@ git clone https://github.com/scillidan/my_goldendict_linux
 cd my_goldendict_linux
 ```
 
-Edit `install.sh` by yourself.
+Edit `install.sh` and `font-family` of `article-style-mix.css` by yourself.
 
 ```sh
 sudo ./install.sh
